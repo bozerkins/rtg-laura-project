@@ -5,6 +5,7 @@ public class BinarySearchVersion2 {
     public static void main(String[] args) {
 
         /**
+         * taken from: https://en.wikipedia.org/wiki/Binary_search_algorithm#Procedure
          * function binary_search(A, n, T) is
          *     L := 0
          *     R := n − 1
